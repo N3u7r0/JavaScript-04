@@ -30,6 +30,8 @@ console.log("Camperas guardadas");
 console.log(camp1);
 console.log(camp2);
 console.log(camp3);
+
+
 //----------------------------------------
 
 //front dinamica.
@@ -66,6 +68,7 @@ for (let i = 1; i < 150; i++) {
     console.log(userName + " recibio el numero " + i);
     break;
 }
+
 
 
 
